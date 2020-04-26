@@ -1,0 +1,11 @@
+body {
+  background-color: blue;
+  display: flex;
+  padding: 0;
+  margin: 0;
+  #app {
+    width: 100px;
+    height: 100px;
+    background: url('./image/1.jpg');
+  }
+}
